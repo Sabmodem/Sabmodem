@@ -16,7 +16,7 @@ I'm a **backend developer** with experience building reliable and scalable syste
 
 ---
 
-I'm committed to continuous learning and mastering new technologies, always ready for challenging and engaging tasks. Feel free to check out my projects!
+I'm committed to continuous  learning and mastering new technologies, always ready for challenging and engaging tasks. Feel free to check out my projects!
 
 ---
 
